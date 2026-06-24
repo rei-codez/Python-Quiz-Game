@@ -26,5 +26,4 @@ A beginner-friendly Python quiz game that tests users on Python programming conc
 - GUI version using Tkinter
 
 ## Author
-
-Rei
+Amina
